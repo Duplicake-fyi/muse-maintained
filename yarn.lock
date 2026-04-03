@@ -968,10 +968,10 @@ array-includes@^3.1.7:
     get-intrinsic "^1.2.4"
     is-string "^1.0.7"
 
-array-shuffle@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/array-shuffle/-/array-shuffle-3.0.0.tgz#9a927cc2ca4c8ef4d71cddef7c9ee7b3b733d54b"
-  integrity sha512-rogEGxHOQPhslOhpg12LJkB+bbAl484/s2AJq0BxtzQDQfKl76fS2u9zWgg3p3b9ENcuvE7K8A7l5ddiPjCRnw==
+array-shuffle@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/array-shuffle/-/array-shuffle-4.1.0.tgz#32a967bc99186c3df40c36efdeb2b4dd504d89fa"
+  integrity sha512-VeSwSNI0y9NojZ/seTJujlyO2xQCwdfn5ujU2ji+VaHos2z4u88aqy6nCVIJhmaMTOQvqNyIWwOJ/pSlYjPhTQ==
 
 array-union@^2.1.0:
   version "2.1.0"
